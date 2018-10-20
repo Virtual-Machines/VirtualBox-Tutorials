@@ -1,6 +1,7 @@
 # Tutorials-VirtualBox
 
 **Import OVA VirtualBox**
+
 How to import an OVA file on VirtualBox step by step. This is useful to work easily with virtual machines offered on this site
 1. File -> Import Appliance (or Control + I)
 2. Appliance to import dialog 
@@ -10,8 +11,11 @@ How to import an OVA file on VirtualBox step by step. This is useful to work eas
 6. Importing...
 7. You can run your imported machine with Start button
 
+![Import OVA](https://github.com/Virtual-Machines/VirtualBox-Tutorials/blob/master/ImportOva.mp4)
+
 
 **NAT Port Forwarding VirtualBox**
+
 How to access to a guest served website (or web service) from host through port forwarding technique on a NAT of VirtualBox.
 
 This is very useful because it allows you to develop web applications in a Gnu/Linux virtual machine and test them on a Windows or Mac host using different browsers (Internet Explorer, Edge, Safari, Chrome, Opera...) unavailable on the penguin OS
@@ -26,6 +30,7 @@ This is very useful because it allows you to develop web applications in a Gnu/L
 
 
 **Shared Folders VirtualBox**
+
 This functionality is useful when you need to transfer data between host and guest (and bidirectional clipboard is not enough)
 All machines offered by me have VirtualBox Guest Additions installed with bidirectional clipboard configured and are compatible with Shared Folders. If you follow this tutorial on them... You are ready to enjoy it!
 1. Click on Settings
