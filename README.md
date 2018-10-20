@@ -11,7 +11,7 @@ How to import an OVA file on VirtualBox step by step. This is useful to work eas
 6. Importing...
 7. You can run your imported machine with Start button
 
-![Import OVA](https://github.com/Virtual-Machines/VirtualBox-Tutorials/blob/master/ImportOva.mp4)
+![Import OVA](https://github.com/Virtual-Machines/VirtualBox-Tutorials/blob/master/ImportOva.mp4?raw=true)
 
 
 **NAT Port Forwarding VirtualBox**
