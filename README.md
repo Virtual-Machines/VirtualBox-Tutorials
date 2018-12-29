@@ -40,4 +40,4 @@ All machines offered by me have VirtualBox Guest Additions installed with bidire
 5. Click OK
 6. Click on Start to run your machine with a shared folder
 
-[**OPINION**](https://github.com/orgs/Virtual-Machines/teams/virtual-machines/discussions)
+[**OPINION**](https://docs.google.com/forms/d/1FHgWDZyQsE8-zDAmjBC0LPR09UpYkPNhy0g67J84Rog)
