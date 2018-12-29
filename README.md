@@ -39,3 +39,5 @@ All machines offered by me have VirtualBox Guest Additions installed with bidire
 4. Set Folder name. Check Auto-mount. Click OK.
 5. Click OK
 6. Click on Start to run your machine with a shared folder
+
+[**OPINION**](https://github.com/orgs/Virtual-Machines/teams/virtual-machines/discussions)
