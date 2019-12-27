@@ -1,6 +1,6 @@
 # VirtualBox Tutorials 
 
-[**Your OPINION is important**](https://docs.google.com/forms/d/e/1FAIpQLSeOzXN-TMbwxt_k3jHCQjwoEbP9o5nP6wJeJFa0_w0exYjTnw/viewform?usp=sf_link)
+[**Your OPINION is important**](https://github.com/Virtual-Machines/VirtualBox-Tutorials/issues/1)
 
 You can download the mp4 videos or read the steps:
 
@@ -42,4 +42,4 @@ All machines offered by me have VirtualBox Guest Additions installed with bidire
 5. Click OK
 6. Click on Start to run your machine with a shared folder
 
-[**OPINION**](https://docs.google.com/forms/d/e/1FAIpQLSeOzXN-TMbwxt_k3jHCQjwoEbP9o5nP6wJeJFa0_w0exYjTnw/viewform?usp=sf_link)
+[**OPINION**](https://github.com/Virtual-Machines/VirtualBox-Tutorials/issues/1)
